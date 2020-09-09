@@ -1,5 +1,5 @@
 # To-Do-App
-A simple To-do app written in Vanilla Javascript. This project was done for grasping more knowledge on Javascript, CSS and HTML
+A simple To-do app written in Vanilla Javascript. This project was done for grasping more knowledge on Javascript, CSS and HTML. Also on github pages at https://danielkieran.github.io/To-Do-App/
 
 Followed video by Dev Ed
 https://www.youtube.com/watch?v=Ttf3CEsEwMQ
